@@ -13,10 +13,6 @@ npm run build     # 产出 dist/ 静态站点
 npm run preview   # 预览构建结果
 ```
 
-如果 PowerShell 的执行策略阻止 `npm.ps1`，可以使用对应的 `npm.cmd install`、`npm.cmd run dev` 和 `npm.cmd run build`；它们调用的是同一个 npm。
-
-提交时请保留整个项目目录，不要只复制 `index.html` 或 `dist/`。
-
 ## 教程主线
 
 1. 从真实校园步行拍摄场景进入任务，用一个序列长度滑杆同步比较 Full Causal、Sliding Window 与 GCA 的 Mask 可见范围、状态规模和长程参照。
