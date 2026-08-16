@@ -1,8 +1,8 @@
-# GCT 逐章解锁交互式教程
+# GCT PaperSkill
 
-基于论文 *Geometric Context Transformer for Streaming 3D Reconstruction* 制作。该目录是 `gct_4min/` 的独立清晰化副本；`gct_4min/` 与相邻的 `gct/` 均未被覆盖。
+基于论文 *Geometric Context Transformer for Streaming 3D Reconstruction* 制作。
 
-页面包含六章，保留“开始学习 → 逐章解锁 → 自动滚动”的阅读流程。内容依次解释流式重建的核心矛盾、GCA 三类几何上下文、缓存复杂度、GCT 系统架构、长序列实验，以及运行方式与方法边界。当前共 9 个页面交互模块，全部随所属章节直接展示，不使用“技术补充”折叠区。
+页面包含六章，保留“开始学习 → 逐章解锁 → 自动滚动”的阅读流程。内容依次解释流式重建的核心矛盾、GCA 三类几何上下文、缓存复杂度、GCT 系统架构、长序列实验，以及运行方式与方法边界，当前共 9 个页面交互模块。
 
 ## 本地运行
 
